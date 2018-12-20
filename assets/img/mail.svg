@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcb08;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_8_2" data-name="Symbol 8 – 2" transform="translate(-23 -2073)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="18.5" cy="18.5" r="18.5" transform="translate(23 2073)"/>
+    <g id="_6b94140275585a2da5f52fbb39be8bc2" data-name="6b94140275585a2da5f52fbb39be8bc2" transform="translate(20.932 1915.8)">
+      <path id="Path_7" data-name="Path 7" d="M30.159,167.8H11.841A1.913,1.913,0,0,0,10,169.774v12.034a1.911,1.911,0,0,0,1.841,1.972H30.159A1.908,1.908,0,0,0,32,181.808V169.772a1.908,1.908,0,0,0-1.841-1.972Zm-.925,1.686-6.894,6.546c-.6.575-1.048.859-1.333.859s-.732-.284-1.333-.859l-6.894-6.546ZM11.6,181.164V170.736l5.473,5.142L11.6,181.164Zm1.345.909,5.323-5.065.873.82a2.789,2.789,0,0,0,3.733,0l.873-.82,5.323,5.065Zm17.463-.909-5.473-5.286,5.473-5.142v10.428Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
